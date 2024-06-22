@@ -10,4 +10,6 @@ To use the package, you can install it via Go modules with the following command
 go get github.com/batutandoga/btu
 
 ```
-gggg
+```bash
+go mod tidy
+```
