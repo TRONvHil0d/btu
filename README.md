@@ -9,4 +9,5 @@ To use the package, you can install it via Go modules with the following command
 ```bash
 go get github.com/batutandoga/btu
 
+```bash
 go mod tidy
