@@ -7,7 +7,7 @@
 To use the package, you can install it via Go modules with the following command:
 
 ```bash
-go get github.com/TRONvHil0d/btu
+go install github.com/TRONvHil0d/btu
 
 ```
 ```bash
